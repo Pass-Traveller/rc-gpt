@@ -1,0 +1,5 @@
+config.json
+output/
+*.part
+__pycache__/
+*.py[cod]
