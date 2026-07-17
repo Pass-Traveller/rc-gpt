@@ -1,5 +1,6 @@
 config.json
 output/
 *.part
+.venv/
 __pycache__/
 *.py[cod]
